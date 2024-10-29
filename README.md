@@ -3,13 +3,13 @@
 #
 #
 #######################
-# introducing a new game
+# ```Introducing The Game```
 #######################
 
 #
 # [CloudyTech]
-# A game changing tech company that will help startup building their business.
-#
+```A game changing tech company that will help startup building their business.```
+
 # [We Are]
 ```A tech company that will help startup companies by building their business and working with them.```
 # 
