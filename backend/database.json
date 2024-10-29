@@ -1,0 +1,16 @@
+{
+  "startups": [
+    {
+      "id": 1,
+      "name": "Startup A",
+      "industry": "Tech",
+      "description": "A tech startup focused on AI."
+    },
+    {
+      "id": 2,
+      "name": "Startup B",
+      "industry": "Finance",
+      "description": "A finance startup providing investment solutions."
+    }
+  ]
+}
