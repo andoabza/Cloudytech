@@ -1,31 +1,19 @@
-# 
-#########################
-#CloudyTech 
-#########################
-#
-#
-# Title
 
-# Body
-
-
-# Footer
 
 #
 #
 #######################
-# End of Commit Message
+# introducing a new game
 #######################
+
 #
-# feat: introduces a new feature
+# [CloudyTech]
+# <type>: A game changing tech company that will help startup building their business.
 #
-# [Title]
-# <type>: A tech company that will help startup companies by building their business and working with them.
-#
-# [Body]
-# A tech company that will help startup companies by building their business and working with them.
+# [
+A tech company that will help startup companies by building their business and working with them.]
 # 
-# [Footer]
+# [FEATURES]
 # Coming Soon
 # 
 # 
