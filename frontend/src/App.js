@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import axios from 'axios';
-
+import logo from './logo.png'; 
 function App() {
   const [startups, setStartups] = useState([]);
 
@@ -19,9 +19,10 @@ function App() {
             <h2>{startup.name}</h2>
             <p>{startup.industry}</p>
             <p>{startup.description}</p>
-          </li>
-        ))}
-      </ul>
+          </li>))}
+</ul>
+<img src={logo} alt='logi'/>
+  
     </div>
   );
 }
